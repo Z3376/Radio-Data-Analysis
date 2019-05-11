@@ -1,0 +1,18 @@
+		---Sampling_Frequency_Summary---
+File Name:					raw_ch01_CASOBSTEST_20170301_143236_003.hdr
+Julian Day:					2457814.10598
+GPS counter for first transition:		99.0
+P_Num for first transition:			6380852.0
+Estimate of P_Num for first transition:		6380851.84576
+Estimated Packets/Sec:				64453.1242236
+Estimated Packets/Sec(FPGA Blip):		64453.1203676
+Estimated Sampling Freq.:			32999999.6025
+Estimated Sampling Freq.(FPGA Blip):		32999997.6282
+
+		---For_Whole_Observation---
+P_Num for first transition:			6380852.0
+Estimate of P_Num for first transition:		6380851.84576
+Estimated Packets/Sec:				64453.1242236
+Estimated Packets/Sec(FPGA Blip):		64453.1203676
+Estimated Sampling Freq.:			32999999.6025
+Estimated Sampling Freq.(FPGA Blip):		32999997.6282
